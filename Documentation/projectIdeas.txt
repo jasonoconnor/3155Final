@@ -24,7 +24,8 @@ Identify the major features of each of the proposed projects (12 total points)
 Sarnam Patel
 List the source of and describe at least 1 potential data sets(8 total points)
 Source: https://datasetsearch.research.google.com/search?src=3&query=sports&docid=L2cvMTFxMjQ3dmdreA%3D%3D
-Description: SportsMonks Football API to build own sports application and be at the forefront of football data. Football API is designed for iGaming, media, developers and football enthusiasts alike, ensuring an individual can create a football application that meets an individual’s needs. Over 20,000 sports fanatics make use of this data. The football API has all the necessary tools that are needed to create a successful football application.
+Description: SportsMonks Football API to build own sports application and be at the forefront of football data. Football API is designed for iGaming, media, developers and football enthusiasts alike, ensuring an individual can create a football application that meets an individual’s needs.
+Over 20,000 sports fanatics make use of this data. The football API has all the necessary tools that are needed to create a successful football application.
 
 Identify who your customer/s would  be (8 total points)
 Media, developers and football enthusiasts
@@ -32,7 +33,8 @@ Media, developers and football enthusiasts
 Describe the problem that  the  proposed project solves and justify its need (10 total points)
 It helps developers to create an app.
 Live Scores and schedules: API features extremely fast livescores and up-to-date season schedules, meaning your app will be the first to notify its customers about a goal scored. This also works to further improve the look and feel of your website.
-Statistics and line-ups: offers various kinds of football statistics, ranging from (live) player statistics to team, match and season statistics. And that’s not all - we also provide pre-match lineups for all important leagues.
+Statistics and line-ups: offers various kinds of football statistics, ranging from (live) player statistics to team, match and season statistics.
+And that’s not all - we also provide pre-match lineups for all important leagues.
 
 State the product vision and how your web based project would be useful to society (8 points)
 Football API is for the developers who are looking for a dataset to create an app for the live games.
