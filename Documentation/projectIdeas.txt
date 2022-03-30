@@ -14,12 +14,21 @@ VG Sales Analyzer is for video game developers who are looking to increase sales
 Identify the major features of each of the proposed projects (12 total points)
 Compare video game sales by major market, genre, platform and more. 
 
-Ryan King test
+Ryan King
 List the source of and describe at least 1 potential data sets(8 total points)
+https://www.kaggle.com/datasets/brunovr/avatar-the-last-airbender-complete-transcript a dataset containing the complete transcript of Avatar: the Last Airbender.
+
 Identify who your customer/s would  be (8 total points)
+Potential customers would be Last Airbender fans along with their friends and family.
+
 Describe the problem that  the  proposed project solves and justify its need (10 total points)
+Holistic analysis of Avatar: The Last Airbender is often difficult because it is such a sprawling world with many episodes. Our product would be able to help users determine where specific themes begin and reach their resolution over the course of the series, as well as help users make sense of the raw transcript with our easy-to-use tools.
+
 State the product vision and how your web based project would be useful to society (8 points)
+This product is for Avatar: the Last Airbender series analysts for assisting in their research of overarching themes across the series, which are often difficult to spot or put into scope. The name of the product is “ATLA Transcript Research Helper” and it’s an information simplification/visualization tool. The product targets a small market but is unique in its execution. It’s different from the dataset alone because it puts intuitive tools in the hands of customers who wouldn’t know what to do with the raw data.
+
 Identify the major features of each of the proposed projects (12 total points)
+The major features will include a theme visualizer, a word frequency search, and a general search function with parameters.
 
 Sarnam Patel
 List the source of and describe at least 1 potential data sets(8 total points)
