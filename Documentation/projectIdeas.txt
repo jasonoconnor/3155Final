@@ -71,7 +71,17 @@ Identify the major features of each of the proposed projects (12 total points)
 
 Mohamad Hamdan
 List the source of and describe at least 1 potential data sets(8 total points)
+How much luggage is lost per year. Source: https://www.statista.com/statistics/862388/average-rate-of-mishandled-bags-worldwide-airline-industry/
+
+
 Identify who your customer/s would  be (8 total points)
+Customers would be airlines trying to see how much luggage is lost and how to prevent it.
+
 Describe the problem that  the  proposed project solves and justify its need (10 total points)
+The problem is too much luggage is lost per year and it is steadily increasing. Our product would help airlines narrow down how luggage is lost and misplaced and helps them prevent it in the future.
+
 State the product vision and how your web based project would be useful to society (8 points)
+Our product would be most useful to airlines who are known for losing and misplacing luggage. According to ClaimCompass, 1.4 million bags get lost or misplaced every year. Our product would help commmit to trying to prevent it from happening.
+
 Identify the major features of each of the proposed projects (12 total points)
+Major features would be to view individual airlines and the rate at which they lose/misplace luggage.
