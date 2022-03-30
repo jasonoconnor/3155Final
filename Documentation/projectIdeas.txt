@@ -11,7 +11,6 @@ Video game sales are a very aggressive business and a multi billion dollar indus
 State the product vision and how your web based project would be useful to society (8 points)
 VG Sales Analyzer is for video game developers who are looking to increase sales of their products in targeted or underserved markets. VGSA is an analytical sales tool that unlike traditional sales firms provides all of the data at your fingertips instead of gatekeeping it behind consulting fees.
 
-
 Identify the major features of each of the proposed projects (12 total points)
 Compare video game sales by major market, genre, platform and more. 
 
